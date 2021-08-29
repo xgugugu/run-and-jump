@@ -18,6 +18,7 @@
 
 版本 | 地址
 ------- | -------
+Releases 1.7 | [Github Releases](https://github.com/xgugugu/run-and-jump/releases/download/1.7/Run.Jump.zip)
 Releases 1.5 | [Github Releases](https://github.com/xgugugu/run-and-jump/releases/download/1.5/Run.Jump.zip)
 Releases 1.0 | [Github Releases](https://github.com/xgugugu/run-and-jump/releases/download/1.0/Run.Jump.zip)
 
@@ -25,6 +26,8 @@ Releases 1.0 | [Github Releases](https://github.com/xgugugu/run-and-jump/release
 
 版本 | 内容
 ------- | -------
+Releases 1.7 | 更新地图
+Snapshot 1.6 | 新增假砖块和假空气
 Releases 1.5 | 修复重影BUG
 Snapshot 1.4 | 添加提示功能
 Snapshot 1.3 | 添加计时功能
