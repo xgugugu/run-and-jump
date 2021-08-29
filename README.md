@@ -13,3 +13,13 @@
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
 <source id="mp4" src="https://xgugugu.github.io/run-and-jump/run-and-jump.mp4" type="video/mp4">
 </video>
+
+## 下载
+
+<iframe 
+height=850 
+width=90% 
+src="https://github.com/xgugugu/run-and-jump/releases" 
+frameborder=0 
+allowfullscreen>
+</iframe>
