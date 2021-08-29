@@ -16,10 +16,8 @@
 
 ## 下载
 
-<iframe 
-height=850 
-width=90% 
-src="https://github.com/xgugugu/run-and-jump/releases" 
-frameborder=0 
-allowfullscreen>
-</iframe>
+<iframe
+                        style="margin-left: 2px; margin-bottom:-5px;"
+                        frameborder="0" scrolling="0" width="100px" height="20px"
+                        src="https://github.com/xgugugu/run-and-jump/releases" >
+                    </iframe>
