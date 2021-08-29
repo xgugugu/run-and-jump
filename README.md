@@ -35,4 +35,5 @@ Releases 1.0 | 首次发布
 ## 关于代码
 
 - 编译时请在 DevC++ -> 工具 -> 编译时加入以下参数 内添加：-lpthread
+
 - 基于 MIT License 开源
