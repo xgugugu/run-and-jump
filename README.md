@@ -20,9 +20,10 @@
 
 版本 | 地址
 ------- | -------
-Releases 1.7 | [Github Releases](https://github.com/xgugugu/run-and-jump/releases/download/1.7/Run.Jump.zip)
-Releases 1.5 | [Github Releases](https://github.com/xgugugu/run-and-jump/releases/download/1.5/Run.Jump.zip)
-Releases 1.0 | [Github Releases](https://github.com/xgugugu/run-and-jump/releases/download/1.0/Run.Jump.zip)
+功能预览版 2.0 | [Github Releases](https://github.com/xgugugu/run-and-jump/releases/download/2.0-pre3/Run.Jump.zip)
+稳定发行版 1.7 | [Github Releases](https://github.com/xgugugu/run-and-jump/releases/download/1.7/Run.Jump.zip)
+稳定发行版 1.5 | [Github Releases](https://github.com/xgugugu/run-and-jump/releases/download/1.5/Run.Jump.zip)
+稳定发行版 1.0 | [Github Releases](https://github.com/xgugugu/run-and-jump/releases/download/1.0/Run.Jump.zip)
 
 ## 关于代码
 
