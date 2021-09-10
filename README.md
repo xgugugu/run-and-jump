@@ -16,7 +16,7 @@
 
 ## 下载
 
-2.0测试版尝鲜地址：[Github Releases](https://github.com/xgugugu/run-and-jump/releases)
+2.0测试版尝鲜地址：[Github Releases](https://github.com/xgugugu/run-and-jump/releases) 
 
 版本 | 地址
 ------- | -------
